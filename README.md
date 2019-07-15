@@ -1,2 +1,4 @@
 # knowledge_violations
 Quick project to answer a question for Health Department sanitarians
+
+This project was inspired by a question a coworker and I had in my dayjob as sanitarian for the state health department. While working to update the state's Food Code, we were attempting to clarify the language in the code relating to a restaurant's "person in charge" and "active managerial control". Basically, in order to comply with the Food Code a PIC must demonstrate knowledge of food safety by either being certified and not having any "priority" violations, or correctly answering our food safety questions and not having any "priorities". There is a lot of jargon and extraneous language in the Food Code, so I wrote this script in an attempt to "cut through the noise" and get the point across to better understand the regulation.
